@@ -80,17 +80,7 @@ body {
     right: 0;
     bottom: 0;
   }
-  /* .check{
-    width: 19px;
-    height: 19px;
   
-    background-color: green;
-  
-    position: absolute;
-    right:8px;
-    bottom:6px;
-  
-    } */
   .check {
     position: absolute;
     right: 9px;
